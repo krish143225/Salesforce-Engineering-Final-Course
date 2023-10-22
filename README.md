@@ -10,7 +10,6 @@
 - [Game Statistics](#game-statistics)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Welcome to "Wandering in the Woods," an exciting grid-based adventure game that takes you on a journey through a mysterious forest. In this game, you'll explore the dense woods and guide multiple players to meet at the same location. It's a mix of strategy, exploration, and unpredictability, suitable for players of all ages.
