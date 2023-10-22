@@ -17,9 +17,10 @@ Welcome to "Wandering in the Woods," an exciting grid-based adventure game that 
 
 ## Installation
 1. **Download:** Clone this repository or download the ZIP file.
-	https://github.com/krish143225/Salesforce-Engineering-Final-Course
-2. **Extract:** Extract the downloaded files to a location of your choice on your computer.
-3. **Launch the Game:** Open the folder where you extracted the game files. Locate the main game file (e.g., main.py) and double-click to launch the game.
+**https://github.com/krish143225/Salesforce-Engineering-Final-Course**
+
+2. **Extract:** Extract the downloaded Python files to a location of your choice on your computer.
+3. **Launch the Game:** Open the folder where you extracted the game files. Locate the main game file **main.py** and double-click to launch the game.
 
 ## Getting Started
 - Once the game launches, you'll be greeted with the main menu. Follow the on-screen instructions to select your desired game mode and start your forest adventure!
@@ -34,6 +35,7 @@ Welcome to "Wandering in the Woods," an exciting grid-based adventure game that 
 - Press the designated menu key (usually "M") to access the game menu for pausing, restarting, or returning to the main menu.
 - Some in-game objects require interaction; use the designated interaction key (usually "Spacebar") to interact.
 - Adjust the game's sound settings with the sound key (usually "S") to toggle sound effects and background music.
+- Restart the Game with **Restart Button**
 
 ## Game Mechanics and Controls
 - Players move randomly on the grid and merge into a group when occupying the same cell.
